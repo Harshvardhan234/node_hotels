@@ -2,9 +2,9 @@
 This is a practice backend project built using Node.js and Express.js for a hotel management application. It provides RESTful APIs to manage core entities such as menu items and persons (e.g., customers or staff).
 
 📁 Project Navigation Tree (Backend – Hotel App)
-bash
-Copy
-Edit
+![image](https://github.com/user-attachments/assets/a5fa5963-2f74-47bb-b56f-46338c3d5bad)
+
+
 Hotel-Backend/
 │
 ├── server.js               # Main entry point
